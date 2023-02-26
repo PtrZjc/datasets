@@ -1,0 +1,1265 @@
+[
+  [
+    {
+      "corporation": "PHARMACY",
+      "totalGames": 45,
+      "place1": 64.44,
+      "place2": 35.55
+    },
+    {
+      "corporation": "MONS INSURANCE",
+      "totalGames": 71,
+      "place1": 63.38,
+      "place2": 36.61
+    },
+    {
+      "corporation": "MANUTECH",
+      "totalGames": 198,
+      "place1": 63.13,
+      "place2": 36.86
+    },
+    {
+      "corporation": "UTOPIA",
+      "totalGames": 93,
+      "place1": 59.13,
+      "place2": 40.86
+    },
+    {
+      "corporation": "POSEIDON",
+      "totalGames": 223,
+      "place1": 58.74,
+      "place2": 41.25
+    },
+    {
+      "corporation": "POINT LUNA",
+      "totalGames": 408,
+      "place1": 57.1,
+      "place2": 42.89
+    },
+    {
+      "corporation": "FACTORUM",
+      "totalGames": 111,
+      "place1": 55.85,
+      "place2": 44.14
+    },
+    {
+      "corporation": "ARIDOR",
+      "totalGames": 257,
+      "place1": 54.86,
+      "place2": 45.13
+    },
+    {
+      "corporation": "SEPTEM TRIBUS",
+      "totalGames": 72,
+      "place1": 54.16,
+      "place2": 45.83
+    },
+    {
+      "corporation": "ECOLINE",
+      "totalGames": 445,
+      "place1": 53.7,
+      "place2": 46.29
+    },
+    {
+      "corporation": "PHOBOLOG",
+      "totalGames": 424,
+      "place1": 53.06,
+      "place2": 46.93
+    },
+    {
+      "corporation": "TERACTOR",
+      "totalGames": 427,
+      "place1": 52.92,
+      "place2": 47.07
+    },
+    {
+      "corporation": "CHEUNG SHING MARS",
+      "totalGames": 317,
+      "place1": 52.68,
+      "place2": 47.31
+    },
+    {
+      "corporation": "SATURN SYSTEMS",
+      "totalGames": 470,
+      "place1": 52.55,
+      "place2": 47.44
+    },
+    {
+      "corporation": "VITOR",
+      "totalGames": 237,
+      "place1": 52.32,
+      "place2": 47.67
+    },
+    {
+      "corporation": "THARSIS REPUBLIC",
+      "totalGames": 462,
+      "place1": 52.16,
+      "place2": 47.83
+    },
+    {
+      "corporation": "CREDICOR",
+      "totalGames": 427,
+      "place1": 51.75,
+      "place2": 48.24
+    },
+    {
+      "corporation": "BEGINNER",
+      "totalGames": 114,
+      "place1": 51.75,
+      "place2": 48.24
+    },
+    {
+      "corporation": "PRISTAR",
+      "totalGames": 51,
+      "place1": 50.98,
+      "place2": 49.01
+    },
+    {
+      "corporation": "VALLEY TRUST",
+      "totalGames": 411,
+      "place1": 50.85,
+      "place2": 49.14
+    },
+    {
+      "corporation": "ROBINSON INDUSTRIES",
+      "totalGames": 317,
+      "place1": 50.78,
+      "place2": 49.21
+    },
+    {
+      "corporation": "MINING GUILD",
+      "totalGames": 371,
+      "place1": 50.4,
+      "place2": 49.59
+    },
+    {
+      "corporation": "STORMCRAFT",
+      "totalGames": 159,
+      "place1": 50.31,
+      "place2": 49.68
+    },
+    {
+      "corporation": "LAKEFRONT RESORTS",
+      "totalGames": 142,
+      "place1": 50,
+      "place2": 50
+    },
+    {
+      "corporation": "TERALABS",
+      "totalGames": 101,
+      "place1": 49.5,
+      "place2": 50.49
+    },
+    {
+      "corporation": "ARCADIAN COMMUNITIES",
+      "totalGames": 117,
+      "place1": 48.71,
+      "place2": 51.28
+    },
+    {
+      "corporation": "PHILARES",
+      "totalGames": 76,
+      "place1": 47.36,
+      "place2": 52.63
+    },
+    {
+      "corporation": "ASTRODRILL",
+      "totalGames": 49,
+      "place1": 46.93,
+      "place2": 53.06
+    },
+    {
+      "corporation": "INVENTRIX",
+      "totalGames": 390,
+      "place1": 45.64,
+      "place2": 54.35
+    },
+    {
+      "corporation": "RECYCLON",
+      "totalGames": 126,
+      "place1": 45.23,
+      "place2": 54.76
+    },
+    {
+      "corporation": "ARKLIGHT",
+      "totalGames": 185,
+      "place1": 44.32,
+      "place2": 55.67
+    },
+    {
+      "corporation": "POLYPHEMOS",
+      "totalGames": 131,
+      "place1": 44.27,
+      "place2": 55.72
+    },
+    {
+      "corporation": "MORNING STAR",
+      "totalGames": 172,
+      "place1": 44.18,
+      "place2": 55.81
+    },
+    {
+      "corporation": "SPLICE",
+      "totalGames": 68,
+      "place1": 44.11,
+      "place2": 55.88
+    },
+    {
+      "corporation": "APHRODITE",
+      "totalGames": 141,
+      "place1": 43.26,
+      "place2": 56.73
+    },
+    {
+      "corporation": "UNMI",
+      "totalGames": 305,
+      "place1": 42.95,
+      "place2": 57.04
+    },
+    {
+      "corporation": "CELESTIC",
+      "totalGames": 202,
+      "place1": 42.57,
+      "place2": 57.42
+    },
+    {
+      "corporation": "INTERPLAN. CINEMATICS",
+      "totalGames": 289,
+      "place1": 42.56,
+      "place2": 57.43
+    },
+    {
+      "corporation": "HELION",
+      "totalGames": 459,
+      "place1": 41.61,
+      "place2": 58.38
+    },
+    {
+      "corporation": "THORGATE",
+      "totalGames": 324,
+      "place1": 40.12,
+      "place2": 59.87
+    },
+    {
+      "corporation": "VIRON",
+      "totalGames": 165,
+      "place1": 40,
+      "place2": 60
+    },
+    {
+      "corporation": "KUIPER BELT COOP.",
+      "totalGames": 8,
+      "place1": 25,
+      "place2": 75
+    }
+  ],
+  [
+    {
+      "corporation": "SEPTEM TRIBUS",
+      "totalGames": 77,
+      "place1": 53.24,
+      "place2": 27.27,
+      "place3": 19.48
+    },
+    {
+      "corporation": "MANUTECH",
+      "totalGames": 207,
+      "place1": 45.41,
+      "place2": 29.46,
+      "place3": 25.12
+    },
+    {
+      "corporation": "PHARMACY",
+      "totalGames": 51,
+      "place1": 45.09,
+      "place2": 33.33,
+      "place3": 21.56
+    },
+    {
+      "corporation": "POSEIDON",
+      "totalGames": 261,
+      "place1": 41.76,
+      "place2": 29.5,
+      "place3": 28.73
+    },
+    {
+      "corporation": "VITOR",
+      "totalGames": 350,
+      "place1": 41.71,
+      "place2": 32.28,
+      "place3": 26
+    },
+    {
+      "corporation": "PHILARES",
+      "totalGames": 130,
+      "place1": 41.53,
+      "place2": 33.07,
+      "place3": 25.38
+    },
+    {
+      "corporation": "SATURN SYSTEMS",
+      "totalGames": 788,
+      "place1": 39.59,
+      "place2": 33.24,
+      "place3": 27.15
+    },
+    {
+      "corporation": "CREDICOR",
+      "totalGames": 661,
+      "place1": 39.03,
+      "place2": 30.86,
+      "place3": 30.1
+    },
+    {
+      "corporation": "LAKEFRONT RESORTS",
+      "totalGames": 157,
+      "place1": 38.85,
+      "place2": 29.29,
+      "place3": 31.84
+    },
+    {
+      "corporation": "ARIDOR",
+      "totalGames": 256,
+      "place1": 38.67,
+      "place2": 33.2,
+      "place3": 28.12
+    },
+    {
+      "corporation": "THARSIS REPUBLIC",
+      "totalGames": 814,
+      "place1": 38.57,
+      "place2": 35.62,
+      "place3": 25.79
+    },
+    {
+      "corporation": "POINT LUNA",
+      "totalGames": 562,
+      "place1": 38.07,
+      "place2": 31.85,
+      "place3": 30.07
+    },
+    {
+      "corporation": "ECOLINE",
+      "totalGames": 661,
+      "place1": 37.06,
+      "place2": 33.13,
+      "place3": 29.8
+    },
+    {
+      "corporation": "TERACTOR",
+      "totalGames": 645,
+      "place1": 35.96,
+      "place2": 28.99,
+      "place3": 35.03
+    },
+    {
+      "corporation": "FACTORUM",
+      "totalGames": 149,
+      "place1": 34.89,
+      "place2": 32.88,
+      "place3": 32.21
+    },
+    {
+      "corporation": "SPLICE",
+      "totalGames": 102,
+      "place1": 34.31,
+      "place2": 33.33,
+      "place3": 32.35
+    },
+    {
+      "corporation": "INTERPLAN. CINEMATICS",
+      "totalGames": 447,
+      "place1": 33.55,
+      "place2": 33.78,
+      "place3": 32.66
+    },
+    {
+      "corporation": "VALLEY TRUST",
+      "totalGames": 556,
+      "place1": 33.27,
+      "place2": 34.89,
+      "place3": 31.83
+    },
+    {
+      "corporation": "APHRODITE",
+      "totalGames": 143,
+      "place1": 32.86,
+      "place2": 34.26,
+      "place3": 32.86
+    },
+    {
+      "corporation": "MONS INSURANCE",
+      "totalGames": 105,
+      "place1": 32.38,
+      "place2": 33.33,
+      "place3": 34.28
+    },
+    {
+      "corporation": "ASTRODRILL",
+      "totalGames": 50,
+      "place1": 32,
+      "place2": 28,
+      "place3": 40
+    },
+    {
+      "corporation": "MORNING STAR",
+      "totalGames": 218,
+      "place1": 31.65,
+      "place2": 33.02,
+      "place3": 35.32
+    },
+    {
+      "corporation": "VIRON",
+      "totalGames": 200,
+      "place1": 31.5,
+      "place2": 31,
+      "place3": 37.5
+    },
+    {
+      "corporation": "PHOBOLOG",
+      "totalGames": 681,
+      "place1": 30.24,
+      "place2": 35.68,
+      "place3": 34.06
+    },
+    {
+      "corporation": "ARCADIAN COMMUNITIES",
+      "totalGames": 116,
+      "place1": 30.17,
+      "place2": 32.75,
+      "place3": 37.06
+    },
+    {
+      "corporation": "CELESTIC",
+      "totalGames": 186,
+      "place1": 30.1,
+      "place2": 32.25,
+      "place3": 37.63
+    },
+    {
+      "corporation": "ARKLIGHT",
+      "totalGames": 183,
+      "place1": 30.05,
+      "place2": 30.05,
+      "place3": 39.89
+    },
+    {
+      "corporation": "MINING GUILD",
+      "totalGames": 510,
+      "place1": 29.6,
+      "place2": 31.37,
+      "place3": 39.01
+    },
+    {
+      "corporation": "CHEUNG SHING MARS",
+      "totalGames": 525,
+      "place1": 28.76,
+      "place2": 38.85,
+      "place3": 32.38
+    },
+    {
+      "corporation": "PRISTAR",
+      "totalGames": 91,
+      "place1": 28.57,
+      "place2": 38.46,
+      "place3": 32.96
+    },
+    {
+      "corporation": "INVENTRIX",
+      "totalGames": 538,
+      "place1": 28.06,
+      "place2": 34.94,
+      "place3": 36.98
+    },
+    {
+      "corporation": "UTOPIA",
+      "totalGames": 115,
+      "place1": 27.82,
+      "place2": 37.39,
+      "place3": 34.78
+    },
+    {
+      "corporation": "RECYCLON",
+      "totalGames": 138,
+      "place1": 27.53,
+      "place2": 35.5,
+      "place3": 36.95
+    },
+    {
+      "corporation": "BEGINNER",
+      "totalGames": 131,
+      "place1": 27.48,
+      "place2": 33.58,
+      "place3": 38.93
+    },
+    {
+      "corporation": "ROBINSON INDUSTRIES",
+      "totalGames": 366,
+      "place1": 27.04,
+      "place2": 31.69,
+      "place3": 41.25
+    },
+    {
+      "corporation": "THORGATE",
+      "totalGames": 467,
+      "place1": 26.98,
+      "place2": 33.83,
+      "place3": 39.18
+    },
+    {
+      "corporation": "STORMCRAFT",
+      "totalGames": 161,
+      "place1": 25.46,
+      "place2": 37.26,
+      "place3": 37.26
+    },
+    {
+      "corporation": "UNMI",
+      "totalGames": 416,
+      "place1": 25,
+      "place2": 38.46,
+      "place3": 36.53
+    },
+    {
+      "corporation": "POLYPHEMOS",
+      "totalGames": 145,
+      "place1": 24.82,
+      "place2": 35.17,
+      "place3": 40
+    },
+    {
+      "corporation": "HELION",
+      "totalGames": 640,
+      "place1": 24.06,
+      "place2": 31.87,
+      "place3": 44.06
+    },
+    {
+      "corporation": "KUIPER BELT COOP.",
+      "totalGames": 21,
+      "place1": 23.8,
+      "place2": 28.57,
+      "place3": 47.61
+    },
+    {
+      "corporation": "TERALABS",
+      "totalGames": 123,
+      "place1": 21.13,
+      "place2": 34.95,
+      "place3": 43.9
+    }
+  ],
+  [
+    {
+      "corporation": "KUIPER BELT COOP.",
+      "totalGames": 5,
+      "place1": 40,
+      "place2": 20,
+      "place4": 40
+    },
+    {
+      "corporation": "POSEIDON",
+      "totalGames": 248,
+      "place1": 39.91,
+      "place2": 26.61,
+      "place3": 18.54,
+      "place4": 14.91
+    },
+    {
+      "corporation": "THARSIS REPUBLIC",
+      "totalGames": 642,
+      "place1": 37.07,
+      "place2": 29.59,
+      "place3": 20.56,
+      "place4": 12.77
+    },
+    {
+      "corporation": "PHARMACY",
+      "totalGames": 30,
+      "place1": 36.66,
+      "place2": 16.66,
+      "place3": 30,
+      "place4": 16.66
+    },
+    {
+      "corporation": "SPLICE",
+      "totalGames": 73,
+      "place1": 35.61,
+      "place2": 17.8,
+      "place3": 16.43,
+      "place4": 30.13
+    },
+    {
+      "corporation": "UTOPIA",
+      "totalGames": 90,
+      "place1": 34.44,
+      "place2": 23.33,
+      "place3": 23.33,
+      "place4": 18.88
+    },
+    {
+      "corporation": "LAKEFRONT RESORTS",
+      "totalGames": 125,
+      "place1": 32,
+      "place2": 23.2,
+      "place3": 24.8,
+      "place4": 20
+    },
+    {
+      "corporation": "SATURN SYSTEMS",
+      "totalGames": 544,
+      "place1": 31.43,
+      "place2": 23.89,
+      "place3": 24.63,
+      "place4": 20.03
+    },
+    {
+      "corporation": "ARCADIAN COMMUNITIES",
+      "totalGames": 81,
+      "place1": 29.62,
+      "place2": 19.75,
+      "place3": 27.16,
+      "place4": 23.45
+    },
+    {
+      "corporation": "ASTRODRILL",
+      "totalGames": 44,
+      "place1": 29.54,
+      "place2": 20.45,
+      "place3": 18.18,
+      "place4": 31.81
+    },
+    {
+      "corporation": "CREDICOR",
+      "totalGames": 480,
+      "place1": 29.16,
+      "place2": 25.2,
+      "place3": 22.5,
+      "place4": 23.12
+    },
+    {
+      "corporation": "TERACTOR",
+      "totalGames": 454,
+      "place1": 28.63,
+      "place2": 23.34,
+      "place3": 21.8,
+      "place4": 26.21
+    },
+    {
+      "corporation": "ECOLINE",
+      "totalGames": 532,
+      "place1": 28.38,
+      "place2": 28.57,
+      "place3": 24.24,
+      "place4": 18.79
+    },
+    {
+      "corporation": "PHILARES",
+      "totalGames": 108,
+      "place1": 27.77,
+      "place2": 35.18,
+      "place3": 23.14,
+      "place4": 13.88
+    },
+    {
+      "corporation": "CELESTIC",
+      "totalGames": 151,
+      "place1": 27.15,
+      "place2": 19.86,
+      "place3": 27.81,
+      "place4": 25.16
+    },
+    {
+      "corporation": "APHRODITE",
+      "totalGames": 133,
+      "place1": 27.06,
+      "place2": 30.07,
+      "place3": 26.31,
+      "place4": 16.54
+    },
+    {
+      "corporation": "POINT LUNA",
+      "totalGames": 407,
+      "place1": 26.78,
+      "place2": 23.34,
+      "place3": 25.3,
+      "place4": 24.57
+    },
+    {
+      "corporation": "MORNING STAR",
+      "totalGames": 154,
+      "place1": 26.62,
+      "place2": 25.97,
+      "place3": 20.77,
+      "place4": 26.62
+    },
+    {
+      "corporation": "CHEUNG SHING MARS",
+      "totalGames": 350,
+      "place1": 26.57,
+      "place2": 24.28,
+      "place3": 25.14,
+      "place4": 24
+    },
+    {
+      "corporation": "PRISTAR",
+      "totalGames": 42,
+      "place1": 26.19,
+      "place2": 28.57,
+      "place3": 28.57,
+      "place4": 16.66
+    },
+    {
+      "corporation": "SEPTEM TRIBUS",
+      "totalGames": 58,
+      "place1": 25.86,
+      "place2": 32.75,
+      "place3": 20.68,
+      "place4": 20.68
+    },
+    {
+      "corporation": "ARIDOR",
+      "totalGames": 180,
+      "place1": 25.55,
+      "place2": 25,
+      "place3": 23.88,
+      "place4": 25.55
+    },
+    {
+      "corporation": "VITOR",
+      "totalGames": 240,
+      "place1": 25,
+      "place2": 25,
+      "place3": 25.41,
+      "place4": 24.58
+    },
+    {
+      "corporation": "POLYPHEMOS",
+      "totalGames": 127,
+      "place1": 24.4,
+      "place2": 27.55,
+      "place3": 23.62,
+      "place4": 24.4
+    },
+    {
+      "corporation": "MONS INSURANCE",
+      "totalGames": 74,
+      "place1": 24.32,
+      "place2": 28.37,
+      "place3": 22.97,
+      "place4": 24.32
+    },
+    {
+      "corporation": "MANUTECH",
+      "totalGames": 199,
+      "place1": 24.12,
+      "place2": 25.62,
+      "place3": 22.61,
+      "place4": 27.63
+    },
+    {
+      "corporation": "VALLEY TRUST",
+      "totalGames": 425,
+      "place1": 24,
+      "place2": 26.82,
+      "place3": 25.41,
+      "place4": 23.76
+    },
+    {
+      "corporation": "INTERPLAN. CINEMATICS",
+      "totalGames": 328,
+      "place1": 23.47,
+      "place2": 23.78,
+      "place3": 26.82,
+      "place4": 25.91
+    },
+    {
+      "corporation": "PHOBOLOG",
+      "totalGames": 510,
+      "place1": 21.56,
+      "place2": 29.21,
+      "place3": 22.74,
+      "place4": 26.47
+    },
+    {
+      "corporation": "STORMCRAFT",
+      "totalGames": 121,
+      "place1": 21.48,
+      "place2": 27.27,
+      "place3": 28.09,
+      "place4": 23.14
+    },
+    {
+      "corporation": "MINING GUILD",
+      "totalGames": 408,
+      "place1": 21.32,
+      "place2": 24.26,
+      "place3": 25.49,
+      "place4": 28.92
+    },
+    {
+      "corporation": "ARKLIGHT",
+      "totalGames": 166,
+      "place1": 20.48,
+      "place2": 25.3,
+      "place3": 27.71,
+      "place4": 26.5
+    },
+    {
+      "corporation": "VIRON",
+      "totalGames": 157,
+      "place1": 20.38,
+      "place2": 21.01,
+      "place3": 28.66,
+      "place4": 29.93
+    },
+    {
+      "corporation": "UNMI",
+      "totalGames": 323,
+      "place1": 20.12,
+      "place2": 28.48,
+      "place3": 23.83,
+      "place4": 27.55
+    },
+    {
+      "corporation": "RECYCLON",
+      "totalGames": 107,
+      "place1": 19.62,
+      "place2": 24.29,
+      "place3": 30.84,
+      "place4": 25.23
+    },
+    {
+      "corporation": "FACTORUM",
+      "totalGames": 109,
+      "place1": 18.34,
+      "place2": 31.19,
+      "place3": 26.6,
+      "place4": 23.85
+    },
+    {
+      "corporation": "BEGINNER",
+      "totalGames": 143,
+      "place1": 18.18,
+      "place2": 19.58,
+      "place3": 28.67,
+      "place4": 33.56
+    },
+    {
+      "corporation": "INVENTRIX",
+      "totalGames": 376,
+      "place1": 17.55,
+      "place2": 21.8,
+      "place3": 27.39,
+      "place4": 33.24
+    },
+    {
+      "corporation": "THORGATE",
+      "totalGames": 331,
+      "place1": 16.01,
+      "place2": 21.14,
+      "place3": 28.09,
+      "place4": 34.74
+    },
+    {
+      "corporation": "TERALABS",
+      "totalGames": 80,
+      "place1": 15,
+      "place2": 16.25,
+      "place3": 31.25,
+      "place4": 37.5
+    },
+    {
+      "corporation": "ROBINSON INDUSTRIES",
+      "totalGames": 313,
+      "place1": 12.77,
+      "place2": 22.04,
+      "place3": 30.67,
+      "place4": 34.5
+    },
+    {
+      "corporation": "HELION",
+      "totalGames": 480,
+      "place1": 12.7,
+      "place2": 19.79,
+      "place3": 31.87,
+      "place4": 35.62
+    }
+  ],
+  [
+    {
+      "corporation": "SPLICE",
+      "totalGames": 37,
+      "place1": 35.13,
+      "place2": 16.21,
+      "place3": 16.21,
+      "place4": 16.21,
+      "place5": 16.21
+    },
+    {
+      "corporation": "PHILARES",
+      "totalGames": 48,
+      "place1": 31.25,
+      "place2": 22.91,
+      "place3": 18.75,
+      "place4": 18.75,
+      "place5": 8.33
+    },
+    {
+      "corporation": "PHARMACY",
+      "totalGames": 16,
+      "place1": 31.25,
+      "place2": 18.75,
+      "place3": 18.75,
+      "place4": 18.75,
+      "place5": 12.5
+    },
+    {
+      "corporation": "THARSIS REPUBLIC",
+      "totalGames": 264,
+      "place1": 31.06,
+      "place2": 25,
+      "place3": 20.07,
+      "place4": 14.77,
+      "place5": 9.09
+    },
+    {
+      "corporation": "ECOLINE",
+      "totalGames": 210,
+      "place1": 27.61,
+      "place2": 19.52,
+      "place3": 23.8,
+      "place4": 19.52,
+      "place5": 9.52
+    },
+    {
+      "corporation": "ASTRODRILL",
+      "totalGames": 11,
+      "place1": 27.27,
+      "place2": 9.09,
+      "place3": 18.18,
+      "place4": 27.27,
+      "place5": 18.18
+    },
+    {
+      "corporation": "VALLEY TRUST",
+      "totalGames": 192,
+      "place1": 26.56,
+      "place2": 17.18,
+      "place3": 15.1,
+      "place4": 19.79,
+      "place5": 21.35
+    },
+    {
+      "corporation": "POSEIDON",
+      "totalGames": 167,
+      "place1": 26.34,
+      "place2": 25.14,
+      "place3": 21.55,
+      "place4": 15.56,
+      "place5": 11.37
+    },
+    {
+      "corporation": "MONS INSURANCE",
+      "totalGames": 39,
+      "place1": 25.64,
+      "place2": 7.69,
+      "place3": 33.33,
+      "place4": 23.07,
+      "place5": 10.25
+    },
+    {
+      "corporation": "INTERPLAN. CINEMATICS",
+      "totalGames": 118,
+      "place1": 25.42,
+      "place2": 21.18,
+      "place3": 19.49,
+      "place4": 16.94,
+      "place5": 16.94
+    },
+    {
+      "corporation": "SATURN SYSTEMS",
+      "totalGames": 213,
+      "place1": 23.94,
+      "place2": 24.88,
+      "place3": 15.96,
+      "place4": 18.3,
+      "place5": 16.9
+    },
+    {
+      "corporation": "TERALABS",
+      "totalGames": 35,
+      "place1": 22.85,
+      "place2": 22.85,
+      "place3": 8.57,
+      "place4": 25.71,
+      "place5": 20
+    },
+    {
+      "corporation": "CREDICOR",
+      "totalGames": 193,
+      "place1": 22.79,
+      "place2": 18.13,
+      "place3": 20.2,
+      "place4": 17.61,
+      "place5": 21.24
+    },
+    {
+      "corporation": "VITOR",
+      "totalGames": 123,
+      "place1": 22.76,
+      "place2": 26.01,
+      "place3": 26.01,
+      "place4": 10.56,
+      "place5": 14.63
+    },
+    {
+      "corporation": "UTOPIA",
+      "totalGames": 27,
+      "place1": 22.22,
+      "place2": 14.81,
+      "place3": 18.51,
+      "place4": 18.51,
+      "place5": 25.92
+    },
+    {
+      "corporation": "LAKEFRONT RESORTS",
+      "totalGames": 46,
+      "place1": 21.73,
+      "place2": 23.91,
+      "place3": 13.04,
+      "place4": 19.56,
+      "place5": 21.73
+    },
+    {
+      "corporation": "BEGINNER",
+      "totalGames": 71,
+      "place1": 21.12,
+      "place2": 15.49,
+      "place3": 12.67,
+      "place4": 23.94,
+      "place5": 26.76
+    },
+    {
+      "corporation": "VIRON",
+      "totalGames": 76,
+      "place1": 21.05,
+      "place2": 21.05,
+      "place3": 10.52,
+      "place4": 25,
+      "place5": 22.36
+    },
+    {
+      "corporation": "MANUTECH",
+      "totalGames": 100,
+      "place1": 21,
+      "place2": 21,
+      "place3": 15,
+      "place4": 19,
+      "place5": 24
+    },
+    {
+      "corporation": "TERACTOR",
+      "totalGames": 165,
+      "place1": 20.6,
+      "place2": 18.18,
+      "place3": 24.24,
+      "place4": 20.6,
+      "place5": 16.36
+    },
+    {
+      "corporation": "FACTORUM",
+      "totalGames": 35,
+      "place1": 20,
+      "place2": 17.14,
+      "place3": 11.42,
+      "place4": 20,
+      "place5": 31.42
+    },
+    {
+      "corporation": "INVENTRIX",
+      "totalGames": 164,
+      "place1": 19.51,
+      "place2": 24.39,
+      "place3": 12.19,
+      "place4": 20.12,
+      "place5": 23.78
+    },
+    {
+      "corporation": "ARIDOR",
+      "totalGames": 103,
+      "place1": 19.41,
+      "place2": 16.5,
+      "place3": 25.24,
+      "place4": 17.47,
+      "place5": 21.35
+    },
+    {
+      "corporation": "CHEUNG SHING MARS",
+      "totalGames": 157,
+      "place1": 19.1,
+      "place2": 15.92,
+      "place3": 23.56,
+      "place4": 20.38,
+      "place5": 21.01
+    },
+    {
+      "corporation": "STORMCRAFT",
+      "totalGames": 66,
+      "place1": 18.18,
+      "place2": 22.72,
+      "place3": 18.18,
+      "place4": 16.66,
+      "place5": 24.24
+    },
+    {
+      "corporation": "PHOBOLOG",
+      "totalGames": 180,
+      "place1": 17.77,
+      "place2": 20.55,
+      "place3": 18.33,
+      "place4": 22.22,
+      "place5": 21.11
+    },
+    {
+      "corporation": "POINT LUNA",
+      "totalGames": 164,
+      "place1": 17.68,
+      "place2": 17.68,
+      "place3": 20.73,
+      "place4": 22.56,
+      "place5": 21.34
+    },
+    {
+      "corporation": "SEPTEM TRIBUS",
+      "totalGames": 17,
+      "place1": 17.64,
+      "place2": 35.29,
+      "place3": 17.64,
+      "place4": 11.76,
+      "place5": 17.64
+    },
+    {
+      "corporation": "PRISTAR",
+      "totalGames": 17,
+      "place1": 17.64,
+      "place2": 29.41,
+      "place3": 17.64,
+      "place4": 17.64,
+      "place5": 17.64
+    },
+    {
+      "corporation": "POLYPHEMOS",
+      "totalGames": 70,
+      "place1": 17.14,
+      "place2": 12.85,
+      "place3": 30,
+      "place4": 21.42,
+      "place5": 18.57
+    },
+    {
+      "corporation": "ARKLIGHT",
+      "totalGames": 71,
+      "place1": 16.9,
+      "place2": 29.57,
+      "place3": 16.9,
+      "place4": 22.53,
+      "place5": 14.08
+    },
+    {
+      "corporation": "UNMI",
+      "totalGames": 132,
+      "place1": 16.66,
+      "place2": 15.9,
+      "place3": 19.69,
+      "place4": 25,
+      "place5": 22.72
+    },
+    {
+      "corporation": "CELESTIC",
+      "totalGames": 97,
+      "place1": 15.46,
+      "place2": 20.61,
+      "place3": 25.77,
+      "place4": 23.71,
+      "place5": 14.43
+    },
+    {
+      "corporation": "RECYCLON",
+      "totalGames": 48,
+      "place1": 12.5,
+      "place2": 14.58,
+      "place3": 18.75,
+      "place4": 25,
+      "place5": 29.16
+    },
+    {
+      "corporation": "MORNING STAR",
+      "totalGames": 90,
+      "place1": 12.22,
+      "place2": 22.22,
+      "place3": 30,
+      "place4": 21.11,
+      "place5": 14.44
+    },
+    {
+      "corporation": "APHRODITE",
+      "totalGames": 66,
+      "place1": 12.12,
+      "place2": 24.24,
+      "place3": 25.75,
+      "place4": 9.09,
+      "place5": 28.78
+    },
+    {
+      "corporation": "HELION",
+      "totalGames": 204,
+      "place1": 10.29,
+      "place2": 10.78,
+      "place3": 15.68,
+      "place4": 25,
+      "place5": 38.23
+    },
+    {
+      "corporation": "MINING GUILD",
+      "totalGames": 148,
+      "place1": 8.78,
+      "place2": 18.91,
+      "place3": 22.97,
+      "place4": 22.29,
+      "place5": 27.02
+    },
+    {
+      "corporation": "ARCADIAN COMMUNITIES",
+      "totalGames": 47,
+      "place1": 8.51,
+      "place2": 23.4,
+      "place3": 19.14,
+      "place4": 27.65,
+      "place5": 21.27
+    },
+    {
+      "corporation": "THORGATE",
+      "totalGames": 134,
+      "place1": 7.46,
+      "place2": 20.14,
+      "place3": 24.62,
+      "place4": 26.11,
+      "place5": 21.64
+    },
+    {
+      "corporation": "ROBINSON INDUSTRIES",
+      "totalGames": 108,
+      "place1": 7.4,
+      "place2": 18.51,
+      "place3": 20.37,
+      "place4": 21.29,
+      "place5": 32.4
+    },
+    {
+      "corporation": "KUIPER BELT COOP.",
+      "totalGames": 1,
+      "place5": 100
+    }
+  ]
+]
