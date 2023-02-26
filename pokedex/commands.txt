@@ -1,0 +1,2 @@
+cat pokedex.json | jq  ".[] | select(.type[] | contains(\"Grass\")) | {name: .name.english, type: .type}" | jq -s | yj -jy
+
